@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a05d904_05192d8d",
+        "filename": "sepolicy.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2019-10-13T06:37:23Z",
+      "side": 1,
+      "message": "We don\u0027t have this repo. Must inherit device/aosp one.",
+      "revId": "fb647fb0dc70640a9f427ef8eeb0b89e74021b66",
+      "serverId": "71c27049-03f3-41cf-bb44-0df23180198b",
+      "unresolved": true
+    }
+  ]
+}
