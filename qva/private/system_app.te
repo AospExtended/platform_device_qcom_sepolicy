@@ -45,3 +45,6 @@ get_prop(system_app, vendor_wigig_core_prop);
 
 #allow system_app to access faceauth
 hal_client_domain(system_app, hal_face)
+
+# allow system_app access to wfd service
+set_prop(system_app, vendor_wfd_service_prop);
